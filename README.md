@@ -19,3 +19,5 @@ Simple custom PrestaShop module created for learning purposes.
 1. Copy module to `/modules`
 2. Install module in PrestaShop admin panel
 3. Hook automatically displays on homepage
+
+<img width="1136" height="126" alt="image" src="https://github.com/user-attachments/assets/d4baeaf7-fe5f-4ce3-ab62-7c8593b243b9" />
