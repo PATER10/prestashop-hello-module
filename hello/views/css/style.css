@@ -1,0 +1,21 @@
+.hello-box a{
+    color: #7A7A7A;
+}
+.hello-box a:hover{
+    color: #24b9d7;
+}
+.hello-box{
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    width: 100%;
+    transition: 0.3s;
+}
+.hello-box.logged{
+    border-left: solid 5px green;
+    background-color: rgb(199, 251, 197);
+}
+.hello-box.guest{
+    border-left: solid 5px grey;
+    background: #e6e6e6;
+}
